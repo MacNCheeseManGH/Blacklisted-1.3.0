@@ -9,7 +9,8 @@ A Python GUI tool with built-in:
 - IP Tracking
 - URL Tracking
 - New GUI
-- Script Injector
+- SQL Script Injector
+- Venerability URL Finder
 
 ## 🔧 Setup
 
