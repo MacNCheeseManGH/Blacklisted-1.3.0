@@ -18,5 +18,8 @@ A Python GUI tool with built-in:
 2. Install required libraries (if not already installed):
 3. Have pip installed
 
+## Other
+
+I recommend running to code via VS Code or another software with a built in terminal. Also remember to run pip install requests
 
 GitHub: https://github.com/MacNCheeseManGH/Blacklisted-1.3.0
